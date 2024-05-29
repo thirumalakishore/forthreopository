@@ -1,0 +1,9 @@
+eleting a repository (public and private) will remove all wikis, issues, and comments associated with the repository. 
+
+Deleting a fork doesn't affect the upstream (original) repository. 
+
+With a few exceptions, there is no way to restore a deleted repository. 
+
+If you're not sure about permanently deleting your GitHub repo, a safer bet is to archive it. This way, you can unarchive it later on and pick up where you left off. 
+
+How to delete a repository in GitHub
